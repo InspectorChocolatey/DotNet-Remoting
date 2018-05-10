@@ -1,13 +1,8 @@
-﻿using System;
+using System;
 using System.Runtime.Remoting;
 using System.Runtime.Remoting.Channels;
 using System.Runtime.Remoting.Channels.Tcp;
 
-/*
- * references:
- *  https://www.youtube.com/watch?v=lJph_kKQTQA
- *  
- */
 namespace Host
 {
     class Program
@@ -22,16 +17,19 @@ namespace Host
 
             TcpServerChannel tcpServerChannel = new TcpServerChannel(portNumber);
             ChannelServices.RegisterChannel(tcpServerChannel, securityEnabled);
-
-            //RemotingConfiguration.RegisterWellKnownServiceType(typeof(NewClassLibrary.ShowCapital), objectUri, WellKnownObjectMode.SingleCall);
             RemotingConfiguration.RegisterWellKnownServiceType(
                 type, 
                 objectUri, 
                 WellKnownObjectMode.SingleCall
             );
-
             Console.WriteLine("Server started: {0}", startTime);
             Console.ReadKey();
         }
     }
 }
+
+/*
+ * references:
+ *  https://www.youtube.com/watch?v=lJph_kKQTQA
+ *  
+ */
