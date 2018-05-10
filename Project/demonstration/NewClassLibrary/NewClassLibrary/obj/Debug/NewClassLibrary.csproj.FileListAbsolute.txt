@@ -1,0 +1,6 @@
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\NewClassLibrary\bin\Debug\NewClassLibrary.dll
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\NewClassLibrary\bin\Debug\NewClassLibrary.pdb
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\NewClassLibrary\obj\Debug\NewClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\NewClassLibrary\obj\Debug\NewClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\NewClassLibrary\obj\Debug\NewClassLibrary.dll
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\NewClassLibrary\obj\Debug\NewClassLibrary.pdb

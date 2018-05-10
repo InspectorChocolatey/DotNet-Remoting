@@ -1,0 +1,10 @@
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\Client\bin\Debug\Client.exe.config
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\Client\bin\Debug\Client.exe
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\Client\bin\Debug\Client.pdb
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\Client\bin\Debug\NewClassLibrary.dll
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\Client\bin\Debug\NewClassLibrary.pdb
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\Client\obj\Debug\Client.exe
+C:\Users\NicholasJ\Desktop\dotnet_remoting\demonstration\NewClassLibrary\Client\obj\Debug\Client.pdb
